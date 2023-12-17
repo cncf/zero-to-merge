@@ -1,6 +1,8 @@
 # A Comprehensive 4-Week Program or Zero-to-Merge Huddle
 
-![image](https://github.com/Rajdeep1311/zero-to-merge/assets/113296626/38d2985d-a494-47b3-8ea0-4d813ce85c37)
+<p align="center">
+  <img width=500 height=320 src="https://github.com/Rajdeep1311/zero-to-merge/assets/113296626/38d2985d-a494-47b3-8ea0-4d813ce85c37">
+</p>
 
 ## Program Schedule Overview
 
