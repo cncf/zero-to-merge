@@ -1,26 +1,126 @@
-# A Comprehensive 4-Week Program or Zero-to-Merge Huddle
+# Overview
 
-<p align="center">
-  <img width=500 height=320 src="https://github.com/Rajdeep1311/zero-to-merge/assets/113296626/38d2985d-a494-47b3-8ea0-4d813ce85c37">
-</p>
+![Zero to Merge Badge](/assets/zero-to-merge-badge.png?raw=true "Zero to Merge Badge")
 
-## Program Schedule Overview
+Welcome to the Zero to Merge Incubator! This is a four-week program designed to empower participants in communicating effectively with Cloud Native Computing Foundation (CNCF) project maintainers, identifying existing problems, collaborating on open GitHub issues, and creating Pull Requests (PRs) for approval.
 
-**Week 1 Session 1:** The initial session of the program's first week served as an orientation, acquainting participants with the program itself, its instructor, and the schedule. This session predominantly centered on key topics, including an introduction to open-source principles and the CNCF (Cloud Native Computing Foundation). It also covered the art of selecting suitable open-source projects for contribution and the necessary prerequisites for effective participation in the open-source community.
+## Target Audience
 
-**Week 1 Session 2:** During the second session of the first week, participants focused on acquiring knowledge about essential tools like CLOTributor for narrowing down project options that align with individual preferences. The session also delved into important concepts such as GitHub and Git basics, GitHub Actions, and expanded insights into The Linux Foundation.
+Our program is ideal for individuals with:
 
-**Week 2 Session 1:** In the second week of our CNCF program, we delved into the history and progress of CNCF projects, exploring what motivates individuals to contribute to open-source initiatives. Our instructor, Taylor Dolezal, left a lasting impression with his fantastic and approachable teaching style. In addition to valuable insights, he demonstrated the entire process, from forking a repository to creating a pull request (PR).
+- Existing Programming Experience
+- Familiarity with Cloud Native Principles
+- Interest in Specific Domains (networking, security, data processing, etc.)
+- Availability to dedicate 2-4 hours per week
+- Enthusiasm for learning and collaboration
+- Aspirations to contribute to open source projects
 
-**Week 2 Session 2:** The session was centered around exploring the topics of Cloud Native Evolution and Cloud Native Trends, featuring active engagement through a question-and-answer format where the instructor either provided answers or directed participants to relevant articles and white papers. Towards the end, attendees were tasked with homework, which involved finding a project that aligned with their interests in the subject matter.
+## Program Structure
 
-**Week 3 Session 1:** In the third week, participants were allowed to take the spotlight by presenting their screens. They were encouraged to share their involvement in various projects, showcasing their approach to addressing the issues at hand and detailing their interactions with project maintainers.
+The program spans four weeks, each focusing on different aspects:
 
-**Week 3 Session 2:** This session was primarily intended for clearing doubts and addressing any questions or uncertainties participants may have had.
+- Introduction to CNCF and Open Source Contribution
+- Navigating CNCF Project Ecosystems
+- Documenting Issues and Writing & Submitting PRs
+- Reviewing and Revising PRs
 
-**Week 4 Session 1:** The first session of the last week had the following agenda:
-- Hot seat opportunity: During this segment, participants had the chance to share information about their projects, issues, or the specific focus of their pull requests, offering an opportunity for discussion and feedback.
+> Each week includes live sessions with experienced maintainers, practical activities, peer collaboration, guided learning resources, continuous feedback, and mentorship.
 
-- Live lesson: The session included a live lesson where the participants reviewed the CNCF (Cloud Native Computing Foundation) website and learned how to navigate through its resources and additional learning materials.
+## Frequently Asked Questions (FAQs)
 
-**Week 4 Session 2:** The program has concluded, marking a moment of celebration, friendly conversations, and discussions about the future steps for all the attendees.
+**Can I catch up if I miss a session?**
+
+- Yes, sessions are recorded and shared with participants.
+
+**Do I need prior CNCF project experience?**
+
+- No, but familiarity with cloud native principles is beneficial.
+
+**What programming languages are involved?**
+
+- PRs can be in any language, not just those common in cloud native technologies.
+
+**What is the weekly time commitment?**
+
+- Approximately 2-4 hours each week.
+
+**Can I apply without specific domain experience?**
+
+- Yes, we welcome all who meet our criteria.
+
+## Application Process
+
+Interested individuals can [apply through this page](https://project.linuxfoundation.org/cncf-zero-to-merge-application). The application form includes questions about your programming experience, time commitment, familiarity with CNCF, and interest in specific projects.
+
+## Program Overview
+
+### Week 1: Orientation and Foundation in open source Contribution
+
+#### **Session 1: Introduction to open source and CNCF**
+
+- **Overview**: Begin your journey with a comprehensive orientation. Meet your instructor and peers, and understand the structure and goals of the program.
+- **Key Learning Points**:
+  - Grasp the fundamentals of open source principles.
+  - Discover the mission and impact of the Cloud Native Computing Foundation (CNCF).
+  - Learn how to select open source projects that match your skills and interests.
+  - Understand the essentials for effective participation in the open source community.
+
+#### **Session 2: Tools and Basics for open source Contribution**
+
+- **Focus**: Dive into the practical tools of open source contribution.
+- **Key Learning Points**:
+  - Master CLOTributor, a tool that helps filter projects based on your preferences.
+  - Gain essential knowledge on GitHub, including basics and GitHub Actions.
+  - Explore insights from The Linux Foundation.
+
+### Week 2: Deep Dive into CNCF Projects and Contribution Processes
+
+#### **Session 1: Understanding CNCF Project Landscape**
+
+- **Experience**: Learn from Taylor Dolezal’s engaging and accessible teaching approach.
+- **Key Learning Points**:
+  - Explore the history and progress of CNCF projects.
+Understand the motivations behind contributing to open source.
+  - Witness a live demonstration of forking a repository and creating a pull request (PR).
+
+#### **Session 2: Cloud Native Evolution and Trend Analysis**
+
+- **Engagement**: Interactive session with a focus on the latest trends.
+- **Key Learning Points**:
+  - Explore Cloud Native Evolution and Trends through Q&A discussions.
+  - Utilize instructor guidance to access relevant articles and white papers.
+  - Homework: Identify a project aligning with your interest areas.
+
+### Week 3: Participant Showcases and Guidance
+
+#### **Session 1: Participant Project Presentations**
+
+- **Platform**: Participants take center stage.
+- **Key Activities**:
+  - Present your project involvement.
+  - Share problem-solving approaches and interactions with project maintainers.
+
+#### **Session 2: Q&A and Doubt Clearance**
+
+- **Support**: Tailored guidance and clarification session.
+- **Key Activities**:
+  - Address queries and uncertainties related to projects and open source contributions.
+
+### Week 4: Final Presentations and Program Wrap-Up
+
+#### **Session 1: Participant Hot Seat and CNCF Navigation**
+
+- **Interactive Activities**:
+  - Hot Seat: Share project updates, issues, and focus of your pull requests.
+  - Live Lesson: Navigate through CNCF’s resources and learning materials.
+
+#### **Session 2: Celebratory Closure**
+
+- **Celebration**: Reflect on the journey and discuss future endeavors.
+- **Key Activities**:
+  - Share experiences and success stories.
+  - Engage in friendly discussions about the next steps in your open source journey.
+
+## Resources
+
+- [Google Slides](https://drive.google.com/drive/folders/15tJHqfy9E2LCeuWylSVibgVaTwtflAI5?usp=sharing)
