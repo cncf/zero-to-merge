@@ -1,6 +1,8 @@
 # Overview
 
-![Zero to Merge Badge](/assets/zero-to-merge-badge.png?raw=true "Zero to Merge Badge")
+<picture>
+ <img alt="Zero to Merge Badge" src="https://github.com/cncf/zero-to-merge/blob/812dbd87427c1b944e12415f4f046f994cd6bf03/assets/zero-to-merge-badge.png?raw=true" width="200" height="200">
+</picture>
 
 Welcome to the Zero to Merge Incubator! This is a four-week program designed to empower participants in communicating effectively with Cloud Native Computing Foundation (CNCF) project maintainers, identifying existing problems, collaborating on open GitHub issues, and creating Pull Requests (PRs) for approval.
 
